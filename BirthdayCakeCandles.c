@@ -10,6 +10,7 @@ int birthdayCakeCandles(int a[],int n)
         {
             max=a[i];
         }
+        
     }
     for(i=0;i<n;i++)
     {
